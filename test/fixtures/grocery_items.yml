@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+milk:
+  name: Milk
+  price: 40
+  description: "Full cream milk"
+  is_available: true
+
+bread:
+  name: Bread
+  price: 35
+  description: "Whole wheat bread"
+  is_available: false
